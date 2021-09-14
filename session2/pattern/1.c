@@ -1,17 +1,19 @@
-#include <stdio.h>  //input output header file
+#include <stdio.h>  //standared input output header file
 
 int main(void)  // main function
 {
-  int row, col;
-
-  for (row = 1; row <= 7; ++row) {
-    for (col = 1; col <= row; ++col) {
+  for (int row = 1; row <= 7;
+       ++row) {  // row is definded only for the scope of this for loop
+    for (int col = 1; col <= row; ++col) {
       printf("*");
     }
     printf("\n");
   }
-  for (row = 7; row >= 1; row = row - 2) {
-    for (col = 1; col <= row; ++col) {
+
+  for (int row = 7; row >= 1;
+       row = row - 2) {  // this row is different from the other row even they
+                         // have the same name
+    for (int col = 1; col <= row; ++col) {
       printf("*");
     }
     printf("\n");
@@ -19,4 +21,3 @@ int main(void)  // main function
 
   return 0;
 }
-// a >= 10
