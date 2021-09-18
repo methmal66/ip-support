@@ -39,7 +39,7 @@ Start by geting a local copy of the repo
 and
 
 Update the repo, after an each session
->git fetch
+>git pull
 
 or
 
