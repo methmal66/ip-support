@@ -1,4 +1,20 @@
 # ip-support
+![love](https://ForTheBadge.com/images/badges/built-with-love.svg)
+
+![stars](https://img.shields.io/github/stars/methmal66/ip-support.svg)
+![forks](https://img.shields.io/github/forks/methmal66/ip-support.svg)
+![watchers](https://img.shields.io/github/watchers/methmal66/ip-support.svg)
+![contributors](https://img.shields.io/github/contributors/methmal66/ip-support)
+![issues](https://img.shields.io/github/issues/methmal66/ip-support.svg)
+![closed issues](https://img.shields.io/github/issues-closed/methmal66/ip-support.svg)
+![pr](https://img.shields.io/github/issues-pr/methmal66/ip-support.svg)
+![closed pr](https://img.shields.io/github/issues-pr-closed/methmal66/ip-support.svg)
+
+![c-lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![size](https://img.shields.io/github/repo-size/methmal66/ip-support?color=red)
+![lines](https://img.shields.io/tokei/lines/github/methmal66/ip-support?color=red)
+![license](https://img.shields.io/github/license/methmal66/ip-support)
+
 This repository includes the necessary reference code for ip support sessions @SLIIT Malabe.
 These IP support sessions are conducted by the students from 2021-may intake with ❤️
 
@@ -23,7 +39,7 @@ Start by geting a local copy of the repo
 and
 
 Update the repo, after an each session
->git pull
+>git fetch
 
 or
 
